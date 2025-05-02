@@ -1,6 +1,8 @@
 # BondSniffer
 
-A retro-themed GUI tool for valuing U.S. Savings Bonds, created by [SinTaxAndCaffeine](https://github.com/SinTaxAndCaffeine). Part of the Nerdvana Project.
+A retro-themed GUI tool for valuing U.S. Savings Bonds,
+made with Made with ☕ and 💻 by [SinTaxAndCaffeine](https://github.com/SinTaxAndCaffeine). 
+🧪 Powered by passion, pong, and pixel-perfect spreadsheets as Part of the [Nerdvana Project](https://github.com/Jimmy-zee-717/Nerdvana).
 
 ---
 
