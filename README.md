@@ -1,18 +1,25 @@
-# BondSniffer GUI | Nerdvana Project
+# BondSniffer
 
-BondSniffer GUI is a user-friendly, retro-themed app designed to help users accurately value U.S. Savings Bonds using official Treasury data.
+A retro-themed GUI tool for valuing U.S. Savings Bonds, created by [SinTaxAndCaffeine](https://github.com/SinTaxAndCaffeine). Part of the Nerdvana Project.
 
-## Features
+---
+
+## ⚙️ Features
+
 - Upload your bond list (CSV format)
-- Preview bond details inside the app
-- Calculate bond values (mock calculation now — real API soon!)
+- Preview bond details in a scrollable table
+- Calculate bond values (**mock value in v2.1** — real API integration in progress)
 - Save results to a new CSV
-- Treasury Links and GitHub Support Built-In
-- Future Fun: Pong mini-game while loading updates
+- Fetch the latest Treasury Savings Bond values via the [fiscaldata.treasury.gov](https://fiscaldata.treasury.gov) API
+- Nerdvana-style menus and Easter eggs
+- Future Fun: Splash screen and Pong mini-game while loading
 
-## How To Run
-1. Install Python 3.10+ (from python.org)
-2. Install required packages:
+---
+
+## 🧪 How To Run
+
+1. Install Python 3.10+
+2. Install dependencies:
    ```
    pip install -r requirements.txt
    ```
@@ -22,4 +29,3 @@ BondSniffer GUI is a user-friendly, retro-themed app designed to help users accu
    ```
 
 Created by **SinTaxAndCaffeine** | Part of the **Nerdvana** suite | 2025
-
